@@ -10,7 +10,7 @@ LightDesktop 是一个替换 Windows 原有桌面的桌面软件，旨在提高 
 
 LightDesktop 将开放 API 以实现插件系统，以实现高度的自定义。
 
-LightDesktop 将具有精致的 UI 以及动画，同时也将支持自定义主题。并且，大部分 UI 操作都将适配触摸屏操作方式。
+LightDesktop 将具有精致的 ~~Muse Dash 联动主题~~ UI 以及动画，同时也将支持自定义主题。并且，大部分 UI 操作都将适配触摸屏操作方式。
 
 LightDesktop 使用 C# .NET 开发，依赖 .NET Framework 4.5 (希沃白板预装 .NET Framework 4.5，无需手动安装)，UI 渲染使用 [sharpDX](http://sharpdx.org/)。
 
