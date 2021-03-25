@@ -1,4 +1,4 @@
 .vs
-LightDesktopClient/LightDesktopClient/bin
-LightDesktopClient/LightDesktopClient/obj
+LightDesktopClient/*/bin
+LightDesktopClient/*/obj
 LightDesktopClient/packages
