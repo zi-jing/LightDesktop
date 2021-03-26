@@ -21,3 +21,5 @@ LightDesktop 遵循 [GPL 3.0 许可证](LICENSE) 开放源代码。
 ## 参与开发
 
 若您对 LightDesktop 的开发有意见或建议，您可以 [提出 Issues](https://github.com/zi-jing/LightDesktop/issues)，同时，我们也随时欢迎您的 [Pull Request](https://github.com/zi-jing/LightDesktop/pulls)。
+
+若您要参与 LightDesktop 开发或为其编写插件，请不要忘了阅读我们的开发者指南。
