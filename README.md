@@ -1,6 +1,10 @@
+# 重要：此项目已转移至[SeewoDesktopAssistant](https://github.com/zi-jing/SeewoDesktopAssistant)
+
 # LightDesktop
 
 这是正处于开发初期的 LightDesktop 的代码仓库。
+
+**该仓库已停止维护，请前往新仓库查看。**
 
 ## 介绍 & 优势
 
